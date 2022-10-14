@@ -1,9 +1,9 @@
 <h1>Hello 👋🏿 I'm Keek</h1>
 <p>A Front End Developer based in New England who's always curious about my own capabilities and likes to explore.</p>
 
-- 🌱 I’m currently learning more about **Open Source**
+- 🌱 I’m currently learning more about **JavaScript**
 - 🙋🏾‍♀️ I volunteer with **TechNewbies. Helping individuals around the world learn to code and find a career in tech**
-- 💬 Reach out to chat about: **web design, marketing techniques, my journey, mentorship**
+- 💬 Reach out to chat about: **web design, marketing techniques, my journey, mentorship, and project partnership**
 - 🔭 I’m currently working on **2 startups**
 - 🔀 I come from a background in **Marketing**, managing teams in various industries from cyber security to health and beauty
 - ✈️ I love traveling and learning about other’s life journeys through books, vlogs, or simple conversation.
