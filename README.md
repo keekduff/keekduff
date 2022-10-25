@@ -3,8 +3,7 @@
 
 - 🌱 I’m currently learning more about **JavaScript**
 - 🙋🏾‍♀️ I volunteer with **TechNewbies. Helping individuals around the world learn to code and find a career in tech**
-- 💬 Reach out to chat about: **web design, marketing techniques, my journey, mentorship, and project partnership**
-- 🔭 I’m currently working on **2 startups**
+- 💬 Reach out to chat about: **web design, my journey, mentorship, and project partnership**
 - 🔀 I come from a background in **Marketing**, managing teams in various industries from cyber security to health and beauty
 - ✈️ I love traveling and learning about other’s life journeys through books, vlogs, or simple conversation.
 <br>
@@ -34,4 +33,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔭 I’m currently working on **2 startups**
+
 -->
